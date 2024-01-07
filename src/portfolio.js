@@ -190,14 +190,15 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      role: "Aerospace structural engineer",
+      company: "SAFRAN AIRCRAFT ENGINES",
+      companylogo: require("./assets/images/safran.png"),
+      date: "December 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Accomplished an annual cost-saving of ~100K€ by spearheading an optimisation of penetrant inspection on LEAP parts, via crack growth analysis.",
+        "Delivered significant conservation of resources by proficiently assessing the disposition of nonconforming HPC casings, resulting in the preservation of ~50 parts.",
+		"Effectively led cross-functional efforts across 4 departments, encompassing design, criteria setting, and ensuring both technical and industrial validation for repairs."
       ]
     },
     {
