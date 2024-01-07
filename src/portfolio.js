@@ -161,12 +161,20 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Beautiful Soup", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Pandas / Numpy / SciPy",
       progressPercentage: "70%"
+    },
+	{
+      Stack: "scikit-learn / TensorFlow / PyTorsh",
+      progressPercentage: "70%"
+    },
+	{
+      Stack: "Matplotlib / Seaborn / Plotly",
+      progressPercentage: "60%"
     },
     {
       Stack: "Programming",
