@@ -126,11 +126,11 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "ENSEIRB-MATMECA UNIVERSITY OF BORDEAUX",
+      logo: require("./assets/images/matmeca.png"),
+      subHeader: "Master of applied mathematics",
+      duration: "September 2012 - September 2014",
+      desc: "Partial differential equations and numerical computing",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
