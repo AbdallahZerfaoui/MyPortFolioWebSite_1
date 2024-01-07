@@ -208,7 +208,7 @@ const workExperiences = {
       date: "February 2016 – February 2018",
       desc: "test code wind"
 	  descBullets: [
-		"Devised and deployed NENUPHAR's unique Matlab calculation code.",
+		"Devised and deployed NENUPHAR unique Matlab calculation code.",
 		"Enhanced the efficiency of the code, delivering a 30% reduction in calculation time, thus accelerating overall productivity.",
 		"Led a rigorous testing regime for 80 features.",
 		"Collaborated with the aerodynamic team to validate these features using ANSYS.",
