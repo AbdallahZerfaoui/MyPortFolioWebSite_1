@@ -33,8 +33,8 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  github: "https://github.com/AbdallahZerfaoui",
+  linkedin: "https://www.linkedin.com/in/abdallahzerfaoui/",
   gmail: "saadpasta70@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7",
@@ -49,14 +49,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "PYTHON WIZARD EAGER TO UNRAVEL EVERY CODING MYSTERY! 🐍🧙‍♂️💻",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Python-based Web Scraping Solutions for Data Retrieval"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Building Progressive Web Scraping Applications (PWAs) using Python"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Seamlessly Integrating Python Scraping with Third-Party Services like Firebase, AWS, and Digital Ocean"
     )
   ],
 
