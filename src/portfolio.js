@@ -23,7 +23,7 @@ const greeting = {
   username: "Abdallah Zerfaoui",
   title: "Hi all, I'm Abdallah",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "As a Python Developer specializing in web scraping, I adeptly extract key data using Python's robust tools. My focus is on delivering precise and ethical scraping solutions for valuable business insights. 🚀📊💻"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
