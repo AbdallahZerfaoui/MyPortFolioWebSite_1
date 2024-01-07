@@ -202,18 +202,29 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Numerical simulation and validation engineer",
+      company: "NENUPHAR WIND",
+      companylogo: require("./assets/images/nenuphar.png"),
+      date: "February 2016 – February 2018",
+      desc: "test code wind"
+	  descBullets: [
+		"Devised and deployed NENUPHAR's unique Matlab calculation code.",
+		"Enhanced the efficiency of the code, delivering a 30% reduction in calculation time, thus accelerating overall productivity.",
+		"Led a rigorous testing regime for 80 features.",
+		"Collaborated with the aerodynamic team to validate these features using ANSYS.",
+		"Gathered and scrutinised data and identified discrepancies, culminating in the production of a detailed validation report"
+	  ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      role: "Algorithmic Trading Developer",
+      company: "SELF-EMPLOYMENT",
+      companylogo: require("./assets/images/freelance.png"),
+      date: "September 2014 – january 2016",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	  descBullets: [
+		"Enhanced trading algorithms to enable real-time decision-making.",
+		"Developed and validated trading strategies using C#."
+	  ]
     }
   ]
 };
