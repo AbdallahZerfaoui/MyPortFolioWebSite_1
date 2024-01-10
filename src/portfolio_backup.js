@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/AbdallahZerfaoui",
   linkedin: "https://www.linkedin.com/in/abdallahzerfaoui/",
-  gmail: "saadpasta70@gmail.com",
+  gmail: "zerfaouiabdallah@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@saadpasta",
@@ -152,16 +152,32 @@ const educationInfo = {
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
-    {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+	{
+      Stack: "Flask", //Insert stack or technology you have experience in
+      progressPercentage: "70%" //Insert relative proficiency in percentage
+    },
+	{
+      Stack: "Selenium", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%"
+      Stack: "Beautiful Soup", //Insert stack or technology you have experience in
+      progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Programming",
+      Stack: "Pandas / Numpy / SciPy",
+      progressPercentage: "70%"
+    },
+	{
+      Stack: "scikit-learn / TensorFlow / PyTorsh",
+      progressPercentage: "70%"
+    },
+	{
+      Stack: "Matplotlib / Seaborn / Plotly",
+      progressPercentage: "60%"
+    },
+    {
+      Stack: "APIs Development",
       progressPercentage: "60%"
     }
   ],
@@ -174,29 +190,41 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      role: "Aerospace structural engineer",
+      company: "SAFRAN AIRCRAFT ENGINES",
+      companylogo: require("./assets/images/safran.png"),
+      date: "December 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Accomplished an annual cost-saving of ~100K€ by spearheading an optimisation of penetrant inspection on LEAP parts, via crack growth analysis.",
+        "Delivered significant conservation of resources by proficiently assessing the disposition of nonconforming HPC casings, resulting in the preservation of ~50 parts.",
+		"Effectively led cross-functional efforts across 4 departments, encompassing design, criteria setting, and ensuring both technical and industrial validation for repairs."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Numerical simulation and validation engineer",
+      company: "NENUPHAR WIND",
+      companylogo: require("./assets/images/nenuphar.png"),
+      date: "February 2016 – February 2018",
+      desc: "test code wind",
+	  descBullets: [
+		"Devised and deployed NENUPHAR unique Matlab calculation code.",
+		"Enhanced the efficiency of the code, delivering a 30% reduction in calculation time, thus accelerating overall productivity.",
+		"Led a rigorous testing regime for 80 features.",
+		"Collaborated with the aerodynamic team to validate these features using ANSYS.",
+		"Gathered and scrutinised data and identified discrepancies, culminating in the production of a detailed validation report"
+	  ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Algorithmic Trading Developer",
+      company: "SELF-EMPLOYMENT",
+      companylogo: require("./assets/images/freelance.png"),
+      date: "September 2014 – january 2016",
+      desc: "i need to fill it later",
+	  descBullets: [
+		"Enhanced trading algorithms to enable real-time decision-making.",
+		"Developed and validated trading strategies using C#."
+	  ]
     }
   ]
 };
